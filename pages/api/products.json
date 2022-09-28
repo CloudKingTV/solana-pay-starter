@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "Marble Name",
+      "price": "1000",
+      "description": "Get this to rename your Marble to whatever you deem worthy! Once purchased please create a ticket in Discord with proof, as well as the name you have chosen!",
+      "image_url": "https://i.imgur.com/rVD8bjt.png",
+      "filename": "name_button.png",
+      "hash": "QmVrFQofHF2tyGGMRP1754Pg8D3waywG2pqproZNYm1N9v"
+    }
+  ]
